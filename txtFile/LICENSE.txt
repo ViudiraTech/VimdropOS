@@ -1,5 +1,5 @@
 Viudira Technology Team Copyright (C) 2020-2024
-Vimdrop microkernel operating system 1.0.0
+Vimdrop microkernel operating system 0.1.0b
 List of developers:
 	MicroFish: Lead programmer
 	Manyo: Main project testing and maintenance
