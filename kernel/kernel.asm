@@ -13,7 +13,7 @@
 	CPU 386				; 偏移取决于 386 或更高
 					; FS 和 GS 需要 386 或更高
 
-	%DEFINE MIKEOS_VER '1.0.0'	; 操作系统版本号
+	%DEFINE MIKEOS_VER '0.1.0b'	; 操作系统版本号
 	%DEFINE MIKEOS_API_VER 01	; 供程序检查的 API 版本
 
 
